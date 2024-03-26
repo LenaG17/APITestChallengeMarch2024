@@ -1,0 +1,11 @@
+{
+"title": "Lena's dream",
+"description": "Product made by Lena",
+"price": "1000000",
+"discountPercentage": "1", 
+"rating": "1", 
+"stock": "94", 
+"brand": "Apple",
+"category": "smartphones", 
+"thumbnail": "test"
+}
